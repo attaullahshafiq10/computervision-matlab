@@ -1,5 +1,5 @@
 
-%% Section to Rectify Images
+%% Section to Rectify Images 
 
 % Load stereoParameters
 load stereoParameters
