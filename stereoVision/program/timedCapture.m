@@ -1,5 +1,6 @@
 function timedCapture
-% Copyright 2015-2016 The MathWorks, Inc.
+
+
 % clc
 % clear
 close all
