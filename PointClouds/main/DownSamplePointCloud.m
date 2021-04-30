@@ -1,4 +1,4 @@
-% Copyright 2015-2016 The MathWorks, Inc.
+
 %% Load a point cloud.
 load teapot
 
