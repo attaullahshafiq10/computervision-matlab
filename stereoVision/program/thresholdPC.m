@@ -1,5 +1,6 @@
 function ptCloudOut = thresholdPC(ptCloudIn,thresholds)
-% Copyright 2015-2016 The MathWorks, Inc.
+
+
 ptCloud = ptCloudIn;
 
 % unpack thresholds
