@@ -1,4 +1,4 @@
-% Copyright 2015-2016 The MathWorks, Inc.
+
 %% load point cloud from mat file
 load teapot
 
