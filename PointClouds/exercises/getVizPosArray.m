@@ -1,5 +1,5 @@
 function [linePos,markerPos] = getVizPosArray(hLines)
-% Copyright 2015-2016 The MathWorks, Inc.
+
 % Get line and marker positions (output) of houghlines (input) formatted to
 % use directly with insertShape and insertObjectAnnotation functions.
 
