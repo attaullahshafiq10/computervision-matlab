@@ -1,4 +1,4 @@
-% Copyright 2015-2016 The MathWorks, Inc.
+
 %% Load the point cloud.
 load('object3d.mat')
 
