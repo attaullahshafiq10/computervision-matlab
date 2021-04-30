@@ -1,4 +1,4 @@
-% Copyright 2015-2016 The MathWorks, Inc.
+
 %% Transform Point Cloud
 % Load the point cloud mat file
 load livingRoom
